@@ -1,6 +1,7 @@
 {
-  "name": "corona-tracker-app",
+  "name": "covid-19-stats-app",
   "version": "0.1.0",
+  "description": "App that tracks Covid-19 stats",
   "private": true,
   "dependencies": {
     "axios": "^0.19.2",
